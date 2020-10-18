@@ -1,0 +1,1 @@
+window.panel = new PanelController();
